@@ -1,0 +1,6 @@
+c:\users\mayank\documents\visual studio 2013\Projects\demos\HelloBootstrap\bin\HelloBootstrap.dll.config
+c:\users\mayank\documents\visual studio 2013\Projects\demos\HelloBootstrap\bin\HelloBootstrap.dll
+c:\users\mayank\documents\visual studio 2013\Projects\demos\HelloBootstrap\bin\HelloBootstrap.pdb
+c:\users\mayank\documents\visual studio 2013\Projects\demos\HelloBootstrap\obj\Debug\HelloBootstrap.csprojResolveAssemblyReference.cache
+c:\users\mayank\documents\visual studio 2013\Projects\demos\HelloBootstrap\obj\Debug\HelloBootstrap.dll
+c:\users\mayank\documents\visual studio 2013\Projects\demos\HelloBootstrap\obj\Debug\HelloBootstrap.pdb
